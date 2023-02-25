@@ -50,5 +50,7 @@
             <input type="text" name="answer">
             <div class="buttons">
                 <input type="button" value="AC" onclick="forms.answer.value=''">
+                <input type="button" value="DEL" onclick="forms.answer.value=forms.answer.value.substr(0, forms.answer.value.length -1)">
+                <input type="button" value="%" onclick="forms.answer.value +='%'">
     </div>
 
