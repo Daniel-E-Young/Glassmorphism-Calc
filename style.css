@@ -13,6 +13,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#fcef64, );
+    background: linear-gradient(#fcef64, #d62828);
 }
 
