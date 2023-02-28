@@ -34,7 +34,7 @@ body{
 }
 @keyframes move{
     100%{
-        transform: translateY()
+        transform: translateY(-100vh)
     }
 }
 
