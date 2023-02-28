@@ -19,7 +19,7 @@ body{
     position: absolute;
     bottom: -120px;
     display: flex;
-    flex-wrap: ;
+    flex-wrap: wrap;
 
 }
 
