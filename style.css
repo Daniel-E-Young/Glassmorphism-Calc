@@ -29,6 +29,6 @@ body{
     width: 60px;
     background: rgba(255,255,255, 0.1);
     animation: move 10s linear infinite;
-    position: ;
+    position: relative;
 }
 
