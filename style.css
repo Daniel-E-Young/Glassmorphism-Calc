@@ -17,6 +17,7 @@ body{
 }
 .bubbles{
     position: absolute;
+    bottom: -120px;
     
 
 }
