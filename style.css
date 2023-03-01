@@ -40,6 +40,6 @@ body{
 
 .bubbles span-one{
     animation-delay: 2.2s;
-    transform: ;
+    transform: scale(2.25);
 }
 
