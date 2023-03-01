@@ -52,6 +52,6 @@ body{
 }
 .bubbles span-four{
     animation-delay: 6s;
-    transform: scale(0.35);
+    transform: scale(2.35);
 }
 
