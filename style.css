@@ -48,6 +48,6 @@ body{
 }
 .bubbles span-three{
     animation-delay: 0.2s;
-    transform: scale(1.15);
+    transform: scale(0.35);
 }
 
