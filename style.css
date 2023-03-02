@@ -71,6 +71,9 @@ body{
     position: absolute;
     left: 0;
     top: 0;
+    height: 60px;
+    width: 40%;
+    transform
 }
 
 
