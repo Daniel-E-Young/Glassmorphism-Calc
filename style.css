@@ -74,7 +74,7 @@ body{
     height: 60px;
     width: 40%;
     transform: skew(45deg) translateX(150px);
-    background: mirror 3s linear ;
+    background: mirror 3s linear infinite;
 }
 
 
