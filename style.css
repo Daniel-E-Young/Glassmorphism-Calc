@@ -76,5 +76,7 @@ body{
     transform: skew(45deg) translateX(150px);
     background:mirror 3s linear infinite;
 }
-
+@keyframes mirror{
+    
+}
 
