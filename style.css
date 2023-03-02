@@ -77,6 +77,8 @@ body{
     background:mirror 3s linear infinite;
 }
 @keyframes mirror{
-    
+    100%{
+        transform: translateX();
+    }
 }
 
