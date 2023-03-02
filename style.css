@@ -78,7 +78,9 @@ body{
 }
 @keyframes mirror{
     100%{
-        transform: translateX();
+        transform: translateX(-450px);
     }
 }
-
+.bubbles span.one:before{
+    
+}
