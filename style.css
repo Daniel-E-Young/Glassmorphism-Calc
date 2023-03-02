@@ -63,8 +63,8 @@ body{
     transform: scale(0.35);
 }
 .bubbles span-seven{
-    animation-delay: 4s;
-    transform: scale(0.35);
+    animation-delay: 0.2s;
+    transform: scale(2.5);
 }
 
 
