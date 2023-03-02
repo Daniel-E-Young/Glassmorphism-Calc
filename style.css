@@ -66,5 +66,8 @@ body{
     animation-delay: 0.2s;
     transform: scale(2.5);
 }
+.bubbles span::before{
+    
+}
 
 
