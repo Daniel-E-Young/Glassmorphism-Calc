@@ -73,7 +73,7 @@ body{
     top: 0;
     height: 60px;
     width: 40%;
-    transform: skew(45deg) translateX()
+    transform: skew(45deg) translateX(150px);
 }
 
 
