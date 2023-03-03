@@ -108,4 +108,5 @@ body{
     padding: 15px;
     border-radius: 12px;
     background: rgba(225,225,225,0.1);
+    box-sizing: ;
 }
