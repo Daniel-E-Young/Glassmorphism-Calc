@@ -128,5 +128,5 @@ body{
 .container input[type="button"]{
     height: 65px;
     color: #fff;
-    width: calc();
+    width: calc(100%/4 - 5px);
 }
