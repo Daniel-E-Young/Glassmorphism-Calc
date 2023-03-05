@@ -125,4 +125,6 @@ body{
     pointer-events: none;
     background: transparent;
 }
-.container input[type="button"]
+.container input[type="button"]{
+    
+}
