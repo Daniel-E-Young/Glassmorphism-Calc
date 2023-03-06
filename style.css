@@ -135,5 +135,5 @@ body{
     outline: none;
     border: none;
     cursor: pointer;
-    transition: all ;
+    transition: all 0.3s;
 }
