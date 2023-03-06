@@ -31,6 +31,7 @@ body{
     animation: move 10s linear infinite;
     position: relative;
     overflow: hidden;
+    color: ;
 }
 @keyframes move{
     100%{
