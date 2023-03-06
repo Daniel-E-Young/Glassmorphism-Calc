@@ -138,5 +138,5 @@ body{
     transition: all 0.3s ease;
 }
 .container input[type="button"]:hover{
-    background: ;
+    background: rgba(225,225,225,0.1);
 }
